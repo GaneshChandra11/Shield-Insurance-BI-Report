@@ -109,3 +109,8 @@ To gain valuable insights into customer demographics, revenue generation, and th
 ## 🙏 Thank You!
 
 Thank you for taking the time to review this analysis and recommendations. Your feedback and insights are greatly appreciated!
+
+
+## 📧 Contact Details
+
+If you have any questions or would like to connect, feel free to reach out via email: [ganeshchandra.cs.it@gmail.com](mailto:ganeshchandra.cs.it@gmail.com)
